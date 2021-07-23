@@ -1,5 +1,5 @@
 # Wiki-Assistant
-A virtual assistant that answers some basic questions using the wolfram and wikipedia APIs.
+A virtual assistant that answers some basic questions using the wolfram and wikipedia API.
 
 ## Setup
 - Clone the repository
