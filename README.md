@@ -6,4 +6,4 @@ A virtual assistant that answers some basic questions using the wolfram and wiki
 - Create a virtualenv and activate it
 - pip install -r requirements.txt
 
-To run the program just type--> $ python assistant.py
+To run the program just type--> python assistant.py
